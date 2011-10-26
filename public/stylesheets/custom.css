@@ -5,7 +5,7 @@
 
 body {
 /*	background: #cff;*/
-	background: #9CD2AB;
+	background: #3897D3;
 }
 
 header {
@@ -180,4 +180,12 @@ div.field, div.actions {
 #error_explanation ul li {
 	font-side: 12px;
 	list-style: square;
+}
+
+/* Toplists Formatting */
+
+table td {
+	list-style-type: none;
+	padding-right: 45px;
+	padding-bottom: 0px;
 }

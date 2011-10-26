@@ -1,4 +1,4 @@
-CsamDashboard::Application.configure do
+SampleApp::Application.configure do
   # Settings specified here will take precedence over those in config/environment.rb
 
   # In the development environment your application's code is reloaded on
@@ -22,5 +22,7 @@ CsamDashboard::Application.configure do
 
   # Only use best-standards-support built into browsers
   config.action_dispatch.best_standards_support = :builtin
+  
+
 end
 
